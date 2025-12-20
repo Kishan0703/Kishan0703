@@ -1,5 +1,11 @@
-# Hi I am Kishan👋
-🔭 I’m currently working on exploring data through small projects and experiments<br>👯 I’m looking to collaborate on data-focused projects, hackathons, and practical ideas<br>🤝 I’m looking for help with understanding real-world datasets and better analysis<br>🌱 I’m currently learning how to think clearly and ask the right questions with data<br>💬 Ask me about hackathons, learning by building, and experimenting<br>⚡ Fun fact I learn fastest when there’s a deadline 😄<br>
+# Hey Kishan here👋
+
+🔭 I’m currently working on exploring data science through small projects and experiments<br>
+👯 I’m looking to collaborate on beginner-friendly data or ML projects and hackathons<br>
+🤝 I’m looking for help with understanding real-world datasets and improving analysis<br>
+🌱 I’m currently learning data science and ML step by step by building things<br>
+💬 Ask me about learning by doing, hackathons, and experimenting with ideas<br>
+⚡ Fun fact I learn fastest when there’s a clear deadline 😄<br>
 
 
 ## 🌐 Socials:
