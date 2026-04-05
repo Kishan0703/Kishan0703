@@ -1,6 +1,7 @@
 # Hey Kishan here👋
+🥷🏻 Open Source Contributor @ NixOS(nix-security-tracker), Lablua (pico-sdl), ak-dskit
 🌆 I'm from Bengaluru (Bangalore), INDIA<br>
-🔭 I’m currently working on exploring data science through small projects and experiments<br>
+🔭 I’m currently working on exploring data science through projects and experiments<br>
 👯 I’m looking to collaborate on beginner-friendly data or ML projects and hackathons<br>
 🤝 I’m looking for help with understanding real-world datasets and improving analysis<br>
 🌱 I’m currently learning data science and ML step by step by building things<br>
