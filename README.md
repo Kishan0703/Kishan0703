@@ -37,7 +37,8 @@
 
 - Data or ML projects and hackathons
 - Understanding real-world datasets and improving analysis  
-- Learning by doing — talk to me about open source and hackathons
+- Learning by doing, talk to me about open source and hackathons
+- Build → contribute → scale: open source, hands-on systems, hackathons
 
 ---
 
