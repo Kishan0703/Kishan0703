@@ -1,6 +1,8 @@
 # Kishan MN
 
-**Open Source Contributor · Data Science Learner · Bengaluru, India**
+**SWE Intern @ Fintrix** - Currently working on AI agents, database optimization.
+
+**Open Source Contributor · Freelancer · Bengaluru, India**
 
 ![NixOS](https://img.shields.io/badge/NixOS-contributor-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Lablua](https://img.shields.io/badge/Lablua-pico--sdl-7F77DD?style=flat)
